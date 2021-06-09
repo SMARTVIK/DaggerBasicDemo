@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DaggerBasicDemo</string>
+    <string name="default_lat">latitude</string>
+    <string name="default_lng">long</string>
+</resources>

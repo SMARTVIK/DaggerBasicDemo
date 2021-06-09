@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textHelloWorld">30sp</dimen>
+    <dimen name="width_text_view">300dp</dimen>
+    <dimen name="marginTopTextView">30dp</dimen>
+</resources>
